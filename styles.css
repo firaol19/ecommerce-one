@@ -67,6 +67,8 @@
 }
 html{
     scroll-behavior: smooth;
+    overflow: hidden;
+    
 }
 body,textarea,input{
     font-family: var(--body-font);
