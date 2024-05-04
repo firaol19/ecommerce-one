@@ -79,6 +79,7 @@ body,textarea,input{
 body{
     background-color: var(--body-color);
     overflow: hidden;
+    width: 100%;
     
 }
 button,textarea,input{
