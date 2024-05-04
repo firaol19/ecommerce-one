@@ -1,0 +1,25 @@
+.product-section{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    column-gap: 2rem;
+    border: 1px solid #eee;
+    padding: .5rem;
+    width: 50%;
+}
+.image img{
+    width: 150px;
+}
+.remove-btn{
+    background-color: red;
+    padding: 1rem;
+
+}
+.contents{
+    display: flex;
+    flex-direction: column;
+    row-gap: .5rem;
+    padding-top: .6rem;
+}
