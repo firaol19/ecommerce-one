@@ -67,7 +67,7 @@
 }
 html{
     scroll-behavior: smooth;
-    overflow: hidden;
+    overflow-x: hidden;
     
 }
 body,textarea,input{
@@ -78,7 +78,7 @@ body,textarea,input{
 }
 body{
     background-color: var(--body-color);
-    overflow: hidden;
+    overflow-x: hidden;
     width: 100%;
     
 }
@@ -137,7 +137,7 @@ img{
     text-align: left;
 }
 .main{
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .form__input{
